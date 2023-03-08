@@ -8,3 +8,6 @@ Created on Wed Mar  8 17:42:50 2023
 print("Gilbert o. Ricamara")
 print("Makawayan Torrijos Marinduque")
 print("November 8, 2002")
+print("BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY")
+print("2nd YEAR")
+print("class-C")
